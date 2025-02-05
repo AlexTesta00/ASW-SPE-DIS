@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "start": "node server.js",
+    "build": "echo 'Building project'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "express": "^4.21.2",
+    "mocha": "^11.1.0",
+    "supertest": "^7.0.0"
+  }
+}
