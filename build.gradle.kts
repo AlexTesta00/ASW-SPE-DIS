@@ -10,6 +10,17 @@ allprojects{
     group = "asw-spe-dist"
 }
 
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
+
+subprojects {
+
+}
+
 tasks.register("build"){
     dependsOn(":nodejs:npmBuild")
+    dependsOn(":kotlin:build")
 }
