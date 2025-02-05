@@ -1,0 +1,7 @@
+[versions]
+pre-commit-githooks = "2.0.20"
+foojay-resolver-convention = "0.9.0"
+
+[plugins]
+gitSemVer = {id = "org.danilopianini.gradle-pre-commit-git-hooks", version.ref = "pre-commit-githooks"}
+foojayResolver = {id="org.gradle.toolchains.foojay-resolver-convention", version.ref="foojay-resolver-convention"}
