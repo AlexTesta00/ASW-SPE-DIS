@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AlexTesta00/ASW-SPE-DIS#readme",
   "devDependencies": {
+    "jest": "^29.7.0",
     "semantic-release-preconfigured-conventional-commits": "latest"
   },
   "private": true,
