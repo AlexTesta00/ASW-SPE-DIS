@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.0...v1.0.1) (2025-02-07)
+
+### Bug Fixes
+
+* **merge:** Resolve merge conflict problem ([e84071f](https://github.com/AlexTesta00/ASW-SPE-DIS/commit/e84071f3cead384a655be81a50bdc44f54d3bbd0))
+
 ## 1.0.0 (2025-02-07)
 
 ### Bug Fixes
