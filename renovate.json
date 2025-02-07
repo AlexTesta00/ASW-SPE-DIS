@@ -15,6 +15,9 @@
   "automerge": true,
   "automergeType": "pr",
   "platformAutomerge": true,
+  "automergeStrategy": "rebase",
+  "rebaseLabel": "rebase",
+  "rebaseWhen": "behind-base-branch",
   "gradle": {
     "enabled": true
   },
