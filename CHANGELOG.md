@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.1...v1.0.2) (2025-02-07)
+
+### Bug Fixes
+
+* **coverage:** fix coverage file ([e5e31fd](https://github.com/AlexTesta00/ASW-SPE-DIS/commit/e5e31fd3bb946c2df54c08fb45d34ddebcabcc41))
+* **merge:** merge fix ([ffab4ed](https://github.com/AlexTesta00/ASW-SPE-DIS/commit/ffab4edb7048baa0e6f3054926bc3cbe08b0ce91))
+
 ## [1.0.1](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.0...v1.0.1) (2025-02-07)
 
 ### Bug Fixes
