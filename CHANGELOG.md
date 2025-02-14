@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.2...v1.0.3) (2025-02-14)
+
+### Bug Fixes
+
+* **deps:** update dependency chai to v5.2.0 ([#5](https://github.com/AlexTesta00/ASW-SPE-DIS/issues/5)) ([037299a](https://github.com/AlexTesta00/ASW-SPE-DIS/commit/037299a741223441e4bbc654391d3450263c38f1))
+
 ## [1.0.2](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.1...v1.0.2) (2025-02-07)
 
 ### Bug Fixes
