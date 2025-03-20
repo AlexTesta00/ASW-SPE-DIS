@@ -1,3 +1,9 @@
+## [1.0.4](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.3...v1.0.4) (2025-03-20)
+
+### Bug Fixes
+
+* **deps:** update dependency supertest to v7.1.0 ([85216c1](https://github.com/AlexTesta00/ASW-SPE-DIS/commit/85216c17d801cab5e8a52bbd7a313faa66381238))
+
 ## [1.0.3](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.2...v1.0.3) (2025-02-14)
 
 ### Bug Fixes
