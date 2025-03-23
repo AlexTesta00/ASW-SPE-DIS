@@ -1,5 +1,5 @@
 [versions]
-pre-commit-githooks = "2.0.21"
+pre-commit-githooks = "2.0.22"
 foojay-resolver-convention = "0.9.0"
 
 [plugins]
