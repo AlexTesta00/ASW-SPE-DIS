@@ -1,3 +1,9 @@
+## [1.0.5](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.4...v1.0.5) (2025-03-31)
+
+### Bug Fixes
+
+* **deps:** update dependency express to v5 ([78fb10a](https://github.com/AlexTesta00/ASW-SPE-DIS/commit/78fb10a8c5899184af80039c9397f28348da4ac4))
+
 ## [1.0.4](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.3...v1.0.4) (2025-03-20)
 
 ### Bug Fixes
