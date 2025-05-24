@@ -1,3 +1,9 @@
+## [1.0.10](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.9...v1.0.10) (2025-05-24)
+
+### Bug Fixes
+
+* **deps:** update dependency mocha to v11.5.0 ([50bceda](https://github.com/AlexTesta00/ASW-SPE-DIS/commit/50bceda48f479ebf7dc3cece74b85e8b561dace3))
+
 ## [1.0.9](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.8...v1.0.9) (2025-05-20)
 
 ### Bug Fixes
