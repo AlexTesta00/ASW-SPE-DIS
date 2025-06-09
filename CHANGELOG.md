@@ -1,3 +1,9 @@
+## [1.0.11](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.10...v1.0.11) (2025-06-09)
+
+### Bug Fixes
+
+* **deps:** update node.js dependencies ([e826c37](https://github.com/AlexTesta00/ASW-SPE-DIS/commit/e826c373542ede3d08b4148576b564f091a4401c))
+
 ## [1.0.10](https://github.com/AlexTesta00/ASW-SPE-DIS/compare/v1.0.9...v1.0.10) (2025-05-24)
 
 ### Bug Fixes
